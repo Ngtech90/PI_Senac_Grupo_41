@@ -1,7 +1,7 @@
-## Aplicativo de monitoramento de dados
+# Aplicativo de monitoramento de dados
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ngtech90/PI_Senac_Grupo_41/blob/main/LICENSE) 
 
-# Sobre o projeto
+## Sobre o projeto
 
 Este projeto visa criar um aplicativo de monitoramento de dados inovador e altamente funcional para atender às crescentes demandas por controle e análise de informações em tempo real. 
 
@@ -26,7 +26,9 @@ A importância do projeto reside na capacidade de empoderar os usuários com fer
 
 
 
-## Grupo - P.I 41 - Desenvolvimento de sistemas orientado a dispositivos móveis
+## Grupo 41 - Projeto Integrador - Desenvolvimento de sistemas
+
+## Autores
 
 - Flávio Augusto de Paula
 - Isadora Clara Silva da Costa
