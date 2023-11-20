@@ -26,7 +26,7 @@ A importância do projeto reside na capacidade de empoderar os usuários com fer
 
 
 
-## PI_Senac_Grupo_41 - Desenvolvimento de sistemas orientado a dispositivos móveis
+## Grupo - P.I 41 - Desenvolvimento de sistemas orientado a dispositivos móveis
 
 - Flávio Augusto de Paula
 - Isadora Clara Silva da Costa
