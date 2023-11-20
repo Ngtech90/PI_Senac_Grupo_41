@@ -17,7 +17,7 @@ O aplicativo permitirá que indivíduos, empresas e profissionais de diversas á
 A importância do projeto reside na capacidade de empoderar os usuários com ferramentas de análise de dados acessíveis e poderosas, melhorando a eficiência e a qualidade de operações presentes em seus cotidianos.
 
 
-(https://github.com/Ngtech90/PI_Senac_Grupo_41/blob/main/LICENSE)
+https://github.com/Ngtech90/PI_Senac_Grupo_41/blob/main/LICENSE
 
 
 
