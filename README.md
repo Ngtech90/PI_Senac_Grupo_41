@@ -2,7 +2,7 @@
 
 Este projeto visa criar um aplicativo de monitoramento de dados inovador e altamente funcional para atender às crescentes demandas por controle e análise de informações em tempo real. 
 
-## Instalação / Execuçao 
+## Layout web / Execuçao 
 
 para acesso a plataforma de monitormanto de dados clicar no link abaixo
 
@@ -16,12 +16,12 @@ O aplicativo permitirá que indivíduos, empresas e profissionais de diversas á
 
 A importância do projeto reside na capacidade de empoderar os usuários com ferramentas de análise de dados acessíveis e poderosas, melhorando a eficiência e a qualidade de operações presentes em seus cotidianos.
 
-
+# PI_Senac_Grupo_41
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ngtech90/PI_Senac_Grupo_41/blob/main/LICENSE) 
 
 
-# PI_Senac_Grupo_41
-Desenvolvimento de sistemas orientado a dispositivos móveis
+# PI_Senac_Grupo_41 - Desenvolvimento de sistemas orientado a dispositivos móveis
+
 Flávio Augusto de Paula
 Isadora Clara Silva da Costa
 Marcelo de Carvalho Melchiades Garcia
