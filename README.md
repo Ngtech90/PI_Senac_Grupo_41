@@ -13,6 +13,9 @@ Este projeto visa criar um aplicativo de monitoramento de dados inovador e altam
 
 ![0004](https://github.com/Ngtech90/PI_Senac_Grupo_41/assets/103089957/4388ec91-e4fa-4a84-906b-8ef5fdf112c7)
 
+## Modelo conceitual
+
+![mod-conc](https://github.com/Ngtech90/PI_Senac_Grupo_41/assets/103089957/cc305d7d-dcc5-47d8-b381-a0fc808f27b5)
 
 ## Para acesso a plataforma de monitormanto de dados
 
