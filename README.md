@@ -11,7 +11,9 @@ para acesso a plataforma de monitormanto de dados clicar no link abaixo
 
 https://655cb76a87e8df0f05897ea0--singular-halva-dcc863.netlify.app/
 
-## uso
+## Video de demostração uso da plataforma / mobile
+
+https://www.youtube.com/watch?v=nUQPImin-mw&ab_channel=grupo41P.I
 
 O aplicativo permitirá que indivíduos, empresas e profissionais de diversas áreas coletem, armazenem e analisem dados de maneira eficaz, facilitando as tomadas de decisão informadas.
 
