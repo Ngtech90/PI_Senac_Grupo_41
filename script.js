@@ -17,11 +17,10 @@ function closeMobileMenu() {
     overlayMenu.classList.remove('active');
 }
 
-// Adiciona um ouvinte de eventos para o botão de abrir o menu
+
 document.getElementById('btn-menu').addEventListener('click', toggleMobileMenu);
 
-// Adiciona um ouvinte de eventos para o botão de fechar o menu
 document.getElementById('btn-fechar').addEventListener('click', closeMobileMenu);
 
-// Adiciona um ouvinte de eventos para o overlay do menu para fechar quando clicado
+
 document.getElementById('overlay-menu').addEventListener('click', closeMobileMenu);
