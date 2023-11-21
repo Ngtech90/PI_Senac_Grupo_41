@@ -5,9 +5,16 @@
 
 Este projeto visa criar um aplicativo de monitoramento de dados inovador e altamente funcional para atender às crescentes demandas por controle e análise de informações em tempo real. 
 
-## Layout web / mobile
+## Layout mobile
 
-para acesso a plataforma de monitormanto de dados clicar no link abaixo
+![0003](https://github.com/Ngtech90/PI_Senac_Grupo_41/assets/103089957/873e13a6-61b7-4621-b048-bee0915ea7c1)
+
+## Layout web
+
+![0004](https://github.com/Ngtech90/PI_Senac_Grupo_41/assets/103089957/4388ec91-e4fa-4a84-906b-8ef5fdf112c7)
+
+
+## Para acesso a plataforma de monitormanto de dados
 
 https://655cb76a87e8df0f05897ea0--singular-halva-dcc863.netlify.app/
 
