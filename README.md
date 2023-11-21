@@ -13,7 +13,7 @@ Este projeto visa criar um aplicativo de monitoramento de dados inovador e altam
 
 ![0004](https://github.com/Ngtech90/PI_Senac_Grupo_41/assets/103089957/4388ec91-e4fa-4a84-906b-8ef5fdf112c7)
 
-## Modelo conceitual
+## Caso de uso
 
 ![mod-conc](https://github.com/Ngtech90/PI_Senac_Grupo_41/assets/103089957/cc305d7d-dcc5-47d8-b381-a0fc808f27b5)
 
@@ -38,9 +38,9 @@ A importância do projeto reside na capacidade de empoderar os usuários com fer
 
 
 
-## Grupo 41 - Projeto Integrador - Desenvolvimento de sistemas
+## Grupo 41 - Projeto Integrador - Desenvolvimento de sistemas Web
 
-## Autores
+## Membros
 
 - Flávio Augusto de Paula
 - Isadora Clara Silva da Costa
