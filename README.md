@@ -9,7 +9,7 @@ Este projeto visa criar um aplicativo de monitoramento de dados inovador e altam
 
 para acesso a plataforma de monitormanto de dados clicar no link abaixo
 
-https://655bc6bc146d57290175fd61--loquacious-cannoli-d3cfe4.netlify.app/
+https://655cb76a87e8df0f05897ea0--singular-halva-dcc863.netlify.app/
 
 ## uso
 
