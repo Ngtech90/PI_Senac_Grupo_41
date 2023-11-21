@@ -11,7 +11,7 @@ para acesso a plataforma de monitormanto de dados clicar no link abaixo
 
 https://655cb76a87e8df0f05897ea0--singular-halva-dcc863.netlify.app/
 
-## Video de demostração uso da plataforma / mobile
+## Video de demonstração uso da plataforma web / mobile
 
 https://www.youtube.com/watch?v=nUQPImin-mw&ab_channel=grupo41P.I
 
